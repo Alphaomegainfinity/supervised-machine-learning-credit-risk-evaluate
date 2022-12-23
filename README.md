@@ -17,7 +17,7 @@ After looking at the dataset and considering the two model types, the Random For
 Create a Logistic Regression model, fit it to the training data that was created in the previous step. Then, determine the model's score by using the score function and the testing data from the previous step. 
 Do the same for a Random Forest Classifier.
 
-![plot](./pics/code.png)
+![plot](./pics/code.PNG)
 
 Without scaling the data and based on the score values, both methods give a very high percentage 99.25% for Logistic Regression and 99.72% for Random Forest Classifier. However, the Random Forest Classifier's result was 0.47% higher than the Logistic Regression. As a result, it's a best method in this curcumstance data, defying my prediction.
 
